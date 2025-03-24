@@ -23,6 +23,6 @@ In this project, we're looking at:
         
     )
     
-    image = Image.open('./img/2.jpg')
+    image = Image.open('./img/2.JPG')
 
     st.image(image, use_column_width=False)
